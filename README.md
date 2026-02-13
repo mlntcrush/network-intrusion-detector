@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ Network Intrusion Detection System
 > 로컬 네트워크에 연결된 미인가 기기를 탐지하고 Windows 알림으로 경보를 보내는 프로그램
 
@@ -261,3 +262,6 @@ network-intrusion-detector/
 ## 📄 라이선스
 
 MIT License - 자유롭게 수정하고 사용하세요.
+=======
+# network-intrusion-detector
+>>>>>>> cba012b4f91efd44ff1a95f31236a4ba3ec57ff9
