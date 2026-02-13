@@ -1,0 +1,13 @@
+{
+  "scan_interval": 30,
+  "ip_range": "192.168.1.0/24",
+  "log_file": "network_monitor.log",
+  "enable_sound": false,
+
+  "arp_timeout": 3,
+  "arp_retry": 2,
+
+  "use_icmp": true,
+  "icmp_timeout": 1,
+  "icmp_workers": 50
+}
